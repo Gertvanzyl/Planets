@@ -1,2 +1,5 @@
+1. added some info to mars.txt
+2. added new file to hub
+3. changed file
 hallo git_hubxy
 
